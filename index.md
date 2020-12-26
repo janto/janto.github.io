@@ -6,17 +6,13 @@ Some opensource code I wrote
 
 * Pynetkey (Stellenbosch University firewall application)
   * <img src="files/pynetkey-main.png" width=32 />
-  * https://github.com/janto/pynetkey (development site)
+  * [https://github.com/janto/pynetkey](https://github.com/janto/pynetkey) (development site)
 
-* Scikits index
-  * [http://scikits.appspot.com/](http://scikits.appspot.com/)
-  * [http://bitbucket.org/janto/scikits\_index/](http://bitbucket.org/janto/scikits_index/) (source code)
+* Scikits index [scikits.appspot.com](http://scikits.appspot.com/)
 
-* Motion Capture from Python
-  * [Blog entry](http://janto.blogspot.com/2006/01/motion-capture-in-python.html)
+* Motion Capture from Python [blog post](http://janto.blogspot.com/2006/01/motion-capture-in-python.html)
 
-* SciTE & Bicycle Repair Man
-  * [Blog entry](http://janto.blogspot.com/2006/02/scite-bicycle-repair-man.html)
+* SciTE & Bicycle Repair Man [blog post](http://janto.blogspot.com/2006/02/scite-bicycle-repair-man.html)
 
 * Some more bits at [github.com/janto](https://github.com/janto)
 
@@ -55,9 +51,7 @@ Articles and presentations
 
 ### Commercial Projects
 
-Currently engaged in consulting work.
-
-Previous employment:
+Previous employment
 
 * Ambrite
   * ML / anaomaly detection
@@ -72,6 +66,10 @@ Previous employment:
   * [Youtube videos](https://youtube.com/playlist?list=PLqRhh0VwYC3wMBg8r77JY66o5ObuTgwO-)
 
 ### Contact Info
-![](files/janto_face_small.png)
+
+Currently engaged in consulting work
+
 * [jantod@gmail.com](mailto:jantod@gmail.com)
-* [LinkedIn](http://www.linkedin.com/in/janto)
+* [linkedin](http://www.linkedin.com/in/janto)
+
+![face scan](files/janto_face_small.png)
