@@ -4,6 +4,9 @@ google_analytics:
 show_downloads: false
 theme: jekyll-theme-hacker
 
+github:
+  is_project_page: false
+
 gems:
   - jekyll-mentions
 
