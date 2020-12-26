@@ -65,7 +65,7 @@ Previous employment
 
 ### Contact Info
 
-Currently engaged in consulting work
+Currently doing consulting/contract work
 
 * [jantod@gmail.com](mailto:jantod@gmail.com)
 * [linkedin](http://www.linkedin.com/in/janto)
