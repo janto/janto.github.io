@@ -4,15 +4,13 @@ Welcome to my Github pages
 
 Some opensource code I wrote  
 
-* https://github.com/janto
+* Pynetkey (Stellenbosch University firewall application)
+  * <img src="files/pynetkey-main.png" width=32 />
+  * https://github.com/janto/pynetkey (development site)
 
 * Scikits index
   * [http://scikits.appspot.com/](http://scikits.appspot.com/)
   * [http://bitbucket.org/janto/scikits\_index/](http://bitbucket.org/janto/scikits_index/) (source code)
-
-* Pynetkey (Stellenbosch University firewall application)
-  * <img src="files/pynetkey-main.png" width=32 />
-  * https://github.com/janto/pynetkey (development site)
 
 * Motion Capture from Python
   * [Blog entry](http://janto.blogspot.com/2006/01/motion-capture-in-python.html)
@@ -20,9 +18,11 @@ Some opensource code I wrote
 * SciTE & Bicycle Repair Man
   * [Blog entry](http://janto.blogspot.com/2006/02/scite-bicycle-repair-man.html)
 
-### Academic
+* Some more bits at [github.com/janto](https://github.com/janto)
 
-Academic Interests  
+### Academic Articles
+
+Interests  
 * Conditional Random Fields
 * Computer vision
 * Machine learning interpretability
@@ -53,9 +53,16 @@ Articles and presentations
   * ![](files/average_pose_change.png)
   * Proceedings of the 19th Annual Symposium of the Pattern Recognition Association of South Africa, 2008 [prasa2008janto.pdf](files/prasa2008janto.pdf) (article)
 
+### Commercial projects
 
-### Contact information
-* ![](files/janto_face_small.png)
+* Ambrite
+  * [www.ambrite.ch](https://www.ambrite.ch/)
+* Helio100
+  * [helio100.sun.ac.za](https://helio100.sun.ac.za/)
+* CustomMed Orthopaedics
+  * [Youtube videos](https://youtube.com/playlist?list=PLqRhh0VwYC3wMBg8r77JY66o5ObuTgwO-)
+
+### Contact Info
+![](files/janto_face_small.png)
 * [jantod@gmail.com](mailto:jantod@gmail.com)
-* [GitHub](https://github.com/janto)
 * [LinkedIn](http://www.linkedin.com/in/janto)
