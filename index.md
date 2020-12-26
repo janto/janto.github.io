@@ -44,9 +44,10 @@ MScEng thesis ([DOI](http://hdl.handle.net/10019.1/2477)) 2006
 
 
 Articles and presentations
+  * Binary Pattern Deflectometry for Facet Characterization, SolarPACES 2015 [poster](files/2015-10-12_Poster_SP_2015.pdf)
   * Left ventricular segmentation from MRI datasets with edge modelling conditional random fields [BMC Medical Imaging 2013](http://www.biomedcentral.com/1471-2342/13/24/) (article)
-  * "CRF segmentation of cardiac MRIs", South African Symposium on Numerical and Applied Mathematics 2012, [slides](files/sanum2012janto.pdf)
-  * "Edge modelling MRFs for cardiac MRI segmentation", Pattern Recognition Association of South Africa (2010), [prasa2010janto.pdf](files/prasa2010janto.pdf) (article)
+  * CRF segmentation of cardiac MRIs, South African Symposium on Numerical and Applied Mathematics 2012, [slides](files/sanum2012janto.pdf)
+  * Edge modelling MRFs for cardiac MRI segmentation, Pattern Recognition Association of South Africa (2010), [prasa2010janto.pdf](files/prasa2010janto.pdf) (article)
 
 * Action Classification using the Average of Pose Changes
   * ![](files/average_pose_change.png)
