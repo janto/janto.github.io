@@ -53,13 +53,22 @@ Articles and presentations
   * ![](files/average_pose_change.png)
   * Proceedings of the 19th Annual Symposium of the Pattern Recognition Association of South Africa, 2008 [prasa2008janto.pdf](files/prasa2008janto.pdf) (article)
 
-### Commercial projects
+### Commercial Projects
+
+Currently engaged in consulting work.
+
+Previous employment:
 
 * Ambrite
+  * ML / anaomaly detection
   * [www.ambrite.ch](https://www.ambrite.ch/)
-* Helio100
+
+* Stellenergy / Helio100
+  * Heliostat control system and deflectometry
   * [helio100.sun.ac.za](https://helio100.sun.ac.za/)
+
 * CustomMed Orthopaedics
+  * 3D surgical planning software
   * [Youtube videos](https://youtube.com/playlist?list=PLqRhh0VwYC3wMBg8r77JY66o5ObuTgwO-)
 
 ### Contact Info
