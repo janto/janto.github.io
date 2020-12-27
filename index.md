@@ -37,7 +37,7 @@ Welcome to my Github pages
 
 
 ### Articles and Presentation Slides
-  * AI Ethics, IndabaX 2018, [slides](files/IndabaX_2018_janto_slides.pdf)
+  * AI Ethics, Deep Learning IndabaX 2018, [slides](files/IndabaX_2018_janto_slides.pdf)
   * Binary Pattern Deflectometry for Facet Characterization, SolarPACES 2015, [poster](files/2015-10-12_Poster_SP_2015.pdf)
   * Left ventricular segmentation from MRI datasets with edge modelling conditional random fields, [BMC Medical Imaging 2013](http://www.biomedcentral.com/1471-2342/13/24/) (article)
   * CRF segmentation of cardiac MRIs, South African Symposium on Numerical and Applied Mathematics 2012, [slides](files/sanum2012janto.pdf)
@@ -51,8 +51,9 @@ Welcome to my Github pages
 
 Previous employment
 
-* Ambrite
-  * ML / anaomaly detection
+* Ambrite ZA
+  * Customer experience predictions for TV services
+  * ML / anomaly detection
   * [www.ambrite.ch](https://www.ambrite.ch/)
 
 * Stellenergy / Helio100
@@ -65,7 +66,7 @@ Previous employment
 
 ### Contact Info
 
-Currently doing consulting/contract work
+Currently consulting + contract work
 
 * [jantod@gmail.com](mailto:jantod@gmail.com)
 * [linkedin](http://www.linkedin.com/in/janto)
