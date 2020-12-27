@@ -15,10 +15,11 @@ Welcome to my Github pages
 * Some more bits at [github.com/janto](https://github.com/janto)
 
 ### Academic Interests
-  
+
 * Conditional Random Fields
-* Computer vision
-* Machine learning interpretability
+* Computer Vision
+* ML interpretability
+* Quality of Experience
 
 ### PhD dissertation
   * Cardiac MRI Segmentation with conditional random fields
@@ -52,16 +53,17 @@ Welcome to my Github pages
 Previous employment
 
 * Ambrite ZA
-  * Customer experience predictions for TV services
+  * Customer experience prediction for TV services
   * ML / anomaly detection
   * [www.ambrite.ch](https://www.ambrite.ch/)
 
 * Stellenergy / Helio100
-  * Heliostat control system and deflectometry
+  * Heliostat control systems and calibration
+  * Deflectometry
   * [helio100.sun.ac.za](https://helio100.sun.ac.za/)
 
 * CustomMed Orthopaedics
-  * 3D surgical planning software
+  * 3D web-based surgical planning software
   * [Youtube videos](https://youtube.com/playlist?list=PLqRhh0VwYC3wMBg8r77JY66o5ObuTgwO-)
 
 ### Contact Info
