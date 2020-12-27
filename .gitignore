@@ -1,0 +1,13 @@
+*.pyc
+__pycache__
+
+.venv/
+venv/
+packages/
+libs/
+
+.vscode
+*.code-workspace
+
+poetry.lock
+.pyre*
