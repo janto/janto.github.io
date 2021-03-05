@@ -6,14 +6,6 @@ Welcome to my Github pages
   * <img src="files/pynetkey-main.png" width=32 />
   * [github.com/janto/pynetkey](https://github.com/janto/pynetkey)
 
-* Scikits index [scikits.appspot.com](http://scikits.appspot.com/)
-
-* Motion Capture from Python [blog post](http://janto.blogspot.com/2006/01/motion-capture-in-python.html)
-
-* SciTE & Bicycle Repair Man [blog post](http://janto.blogspot.com/2006/02/scite-bicycle-repair-man.html)
-
-* Some more bits at [github.com/janto](https://github.com/janto)
-
 ### Academic Interests
 
 * Conditional Random Fields
@@ -73,4 +65,3 @@ Currently consulting + contract work
 * [jantod@gmail.com](mailto:jantod@gmail.com)
 * [linkedin](http://www.linkedin.com/in/janto)
 
-![face scan](files/janto_face_small.png)
