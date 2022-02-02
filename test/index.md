@@ -88,18 +88,18 @@ just print
 <!-- START print_block() output -->
 ```python
           a         b         c
-0  0.611082  0.869200  0.451189
-1  0.970479  0.980046  0.195239
-2  0.989514  0.417930  0.098282
+0  0.616765  0.790808  0.222252
+1  0.107004  0.807163  0.561971
+2  0.731200  0.726578  0.144692
 ```
 <!-- STOP print_block() output -->
 some things from `test/data/some_data.json`
 <!-- from test/data/some_data.json -->
 |     a |     b |     c |
 |------:|------:|------:|
-| 0.611 | 0.869 | 0.451 |
-| 0.970 | 0.980 | 0.195 |
-| 0.990 | 0.418 | 0.098 |
+| 0.617 | 0.791 | 0.222 |
+| 0.107 | 0.807 | 0.562 |
+| 0.731 | 0.727 | 0.145 |
 <!-- from test/data/some_data.json -->
 <p align="center"><img align="center" width="768" src="images/generated/some_data_barchart.svg"></p>
 <!-- [[[end]]] -->
