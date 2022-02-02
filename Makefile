@@ -12,3 +12,4 @@ no_targets__:
 cog: *.md
 	poetry run cog -I scripts -r *.md
 	poetry run cog -I scripts -r test/*.md
+	poetry run cog -I scripts -r crude/*.md
